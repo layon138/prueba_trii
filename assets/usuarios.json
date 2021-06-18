@@ -1,0 +1,12 @@
+{
+  "usuarios": [
+    {
+      "name": "julianvargas705@hotmail.com",
+      "password": "123654"
+    },
+    {
+      "name": "pruebas@correo.com",
+      "password":  "123654"
+    }
+  ]
+}
